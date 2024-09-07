@@ -195,7 +195,7 @@
   },
   "14": {
     "id": 14,
-    "title": "Dell 14 Thin & Light Laptop",
+    "title": "Laptop Dell 14 Thin & Light Laptop",
     "image": "../images/lap-1.jpg",
     "image_small": "../images/lap-1.jpg",
     "attribute": "Laptop",
@@ -209,7 +209,7 @@
   },
   "15": {
     "id": 15,
-    "title": "Acer Aspire Lite 12th Gen Thin and Light Laptop",
+    "title": "Laptop Acer Aspire Lite 12th Gen Thin and Light Laptop",
     "image": "../images/lap-2.jpg",
     "image_small": "../images/lap-2.jpg",
     "attribute": "Laptop",
@@ -223,7 +223,7 @@
   },
   "16": {
     "id": 16,
-    "title": "Lenovo IdeaPad Slim 3 12th Gen Nits Thin & Light Laptop",
+    "title": "Laptop Lenovo IdeaPad Slim 3 12th Gen Nits Thin & Light Laptop",
     "image": "../images/lap-3.jpg",
     "image_small": "../images/lap-3.jpg",
     "attribute": "Laptop",
@@ -237,7 +237,7 @@
   },
   "17": {
     "id": 17,
-    "title": "HP Laptop 15s, 12th Gen Intel Core i3 Thin & Light",
+    "title": "Laptop HP 15s, 12th Gen Intel Core i3 Thin & Light",
     "image": "../images/lap-4.jpg",
     "image_small": "../images/lap-4.jpg",
     "attribute": "Laptop",
@@ -303,7 +303,7 @@
   },
   "22": {
     "id": 22,
-    "title": "Emerald Heavy Tornado Brass 3 Burner Auto Ignition Gas Stove",
+    "title": "Gas Stove-Emerald Heavy Tornado Brass 3 Burner Auto Ignition Gas Stove",
     "image": "../images/home-2.jpg",
     "image_small": "../images/home-2.jpg",
     "attribute": "Home Appliance",
@@ -316,7 +316,7 @@
   },
   "23": {
     "id": 23,
-    "title": "Prestige Svachh Nakshatra Duo Red Handi",
+    "title": "Pressure Cooker Red Handi",
     "image": "../images/home-3.jpg",
     "image_small": "../images/home-3.jpg",
     "attribute": "Home Appliance",
@@ -329,7 +329,7 @@
   },
   "24": {
     "id": 24,
-    "title": "realme NARZO 70 Pro 5G",
+    "title": "Mobile-realme NARZO 70 Pro 5G",
     "image": "../images/mobile-1.jpg",
     "image_small": "../images/mobile-1.jpg",
     "attribute": "Mobile",
@@ -342,7 +342,7 @@
   },
   "25": {
     "id": 25,
-    "title": "iQOO Z9s 5G",
+    "title": "Mobile-iQOO Z9s 5G",
     "image": "../images/mobile-2.jpg",
     "image_small": "../images/mobile-2.jpg",
     "attribute": "Mobile",
@@ -355,7 +355,7 @@
   },
   "26": {
     "id": 26,
-    "title": "Oneplus Nord CE 3 5G",
+    "title": "Mobile-Oneplus Nord CE 3 5G",
     "image": "../images/mobile-3.jpg",
     "image_small": "../images/mobile-3.jpg",
     "attribute": "Mobile",
@@ -368,7 +368,7 @@
   },
   "27": {
     "id": 27,
-    "title": "OPPO F27 5G ",
+    "title": "Mobile-OPPO F27 5G",
     "image": "../images/mobile-4.jpg",
     "image_small": "../images/mobile-4.jpg",
     "attribute": "Mobile",
@@ -423,7 +423,7 @@
   },
   "31": {
     "id": 31,
-    "title": "Smart Watch",
+    "title": "Smart Display Watch",
     "image": "../images/deal-1.jpg",
     "image_small": "../images/deal-1.jpg",
     "attribute": "Watch",
@@ -438,7 +438,7 @@
   },
   "32": {
     "id": 32,
-    "title": "ZEBRONICS PHERO Wired Gaming Mouse ",
+    "title": "Wired Gaming Mouse",
     "image": "../images/deal-2.jpg",
     "image_small": "../images/deal-2.jpg",
     "attribute": "Mouse",
